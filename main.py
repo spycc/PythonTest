@@ -1,6 +1,8 @@
 # account = 'spycc'
 # password = '111111'
-
+import mod1.a1
+import mod2.b2
+import mod3.c3
 # user_account = input('please account:')
 # user_password = input('please password:')
 
@@ -8,9 +10,3 @@
 #     print('you are login ok')
 # else:
 #     print('Sorry wrong!!!')
-
-def main():
-    pass
-
-if __name__ == '__main__':
-    main()
