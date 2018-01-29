@@ -10,10 +10,8 @@
 
 
 def nianjiang(year, proportion):
-    a = year
-    b = proportion
     def bonus(salary):
-        return salary * a * b
+        return salary * year * proportion
     return bonus
 
 print('请输入工作年份')
